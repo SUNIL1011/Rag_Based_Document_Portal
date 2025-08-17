@@ -1,4 +1,4 @@
-# Project Setup Guide
+# Project Setup Guide for the Document Portal
 
 ## Create Project Folder and Environment Setup
 
